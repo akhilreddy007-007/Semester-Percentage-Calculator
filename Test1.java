@@ -1,4 +1,4 @@
-package com.neo.vinny.testt;
+package test;
 
 import java.util.Scanner;
 
