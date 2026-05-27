@@ -46,6 +46,7 @@ Test8.java
 - 2. Run program
 - java main
 
+---
 
 ## How It Works
 - User enters semester number
@@ -53,6 +54,7 @@ Test8.java
 - Program calculates marks
 - Percentage is displayed
 
+---
 
 ## Grade Mapping
 Grade	Value
@@ -61,6 +63,8 @@ Grade	Value
 - C	30
 - D	40
 - E	50
+
+---
 
 ## Author
 - Akhil Reddy
